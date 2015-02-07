@@ -3,6 +3,13 @@ Task 1 Help & Explanation
 Author: Dhiraj Patil, SDSU.
 Document created on: 1/23/2015.
 ----------------------------------
+**********************************
+Note to all users:
+------------------
+This is an initial (beta) version of this utility.
+Please note that this code is not yet ready for final release.
+For more usage information, please read the license document.
+**********************************
 Overview of problem:
 --------------------
 In task 1, we take input data from San Diego city-data website (www.city-data.com/forum/san-diego). Basically, we do web crawling for this site and extract the list of place names from this website. In addition, we find all the variants of places present on this website.
