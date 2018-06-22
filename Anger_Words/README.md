@@ -1,1 +1,6 @@
 
+The purpose of this script is to count the occurrences of high-precision anger keywords in a sample of Twitter data as a percentage of the total number of tweets. The anger keywords are: liar(s), lying, lies, hypocrite(s), hypocrisy, hypocritical, asshole(s), bullshit, fuck AND off, “fuck you”, disgrace(s), disgraced, disgraceful, “piece of shit”, “the fuck up”, piss(ed) AND off, STFU, disgusting, disgusted, disgusts, “go fuck yourself”, scum, infuriate(s), infuriating, infuriated.
+
+These anger keywords are intended as a relative, not absolute measure of the anger expressed in a sample of tweets. Therefore, they can be used to compare the level of anger between samples or to compare against a baseline level of anger for a given population. For example, all tweets in San Diego containing the word "Republicans" on a given day could be compared to tweets containing "Democrats" and/or to tweets collected in San Diego for some neutral keywords such as "a" and "the."
+
+The code takes as input an XLSX file or a folder of XLSX files. Each file must at least have one column containing tweet text with the header TEXT, with each tweet in a separate row. The output will be one CSV file per input file showing number and percent for each anger keyword and in total.
