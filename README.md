@@ -1,6 +1,6 @@
-Linguistic
+Linguistics
 ==========
 
-Linguistic analysis and text data mining is also one of important topics in HDMA center. We will share the linguistic algorithms and codes in this repository. 
+Linguistic analysis and text data mining is also an important topic of the HDMA center. We will share linguistic algorithms and codes in this repository. 
 
 If you are interested, please email us: hdmasdsu@gmail.com
