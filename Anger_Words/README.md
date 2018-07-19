@@ -3,7 +3,7 @@ The anger words are keywords and phrases to identify angry tweets with high prec
 
 The anger words are: liar(s), lying, lies, hypocrite(s), hypocrisy, hypocritical, asshole(s), bullshit, fuck AND off, “fuck you”, disgrace(s), disgraced, disgraceful, “piece of shit”, “the fuck up”, piss(ed) AND off, STFU, disgusting, disgusted, disgusts, “go fuck yourself”, scum, infuriate(s), infuriating, infuriated.
 
-This folder contains four scripts applying these anger words to Twitter data. Each takes as input an XLSX file or a folder of XLSX files. Each input file must at least have one column containing tweet text with the header TEXT, with each tweet in a separate row.
+This folder contains four scripts applying these anger words to Twitter data. Each takes as input an XLSX file or a folder of XLSX files. Each input file must at least have one column containing tweet text with the header TEXT, with each tweet in a separate row. 
 
 General-Anger-Check: Counts occurrences of the anger words in a sample of Twitter data as a percentage of the total number of tweets.  Returns one CSV file per input file showing number and percent for each keyword and in total.
 
