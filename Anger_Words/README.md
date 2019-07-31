@@ -1,8 +1,8 @@
-### Python Codes for Anger Word Measurements (Github)
+## Python Codes for Anger Word Measurements (Github)
 
 funded by NSF IBSS Award Abstract #1416509. Opinions expressed are those of the authors and not necessarily those of the National Science Foundation. NSF Award Information.
 
-## See the technical document (Anger-Words-Technical-Doc.pdf) for detailed instructions in using these notebooks.
+### See the technical document (Anger-Words-Technical-Doc.pdf) for detailed instructions in using these notebooks.
 
 The anger words are keywords and phrases to identify angry tweets with high precision. These anger words are intended as a relative, not absolute, measure of the anger expressed in a sample of tweets. Therefore, they can be used to compare the level of anger between samples (for different keywords, in different locations, or at different times) or to compare against a baseline level of anger for a given population. For example, all tweets in San Diego containing the word "Republicans" on a given day could be compared to tweets containing "Democrats" and/or to tweets collected in San Diego for some neutral keywords such as "a" and "the."
 
