@@ -1,6 +1,6 @@
 ## Python Codes for Anger Word Measurements (Github)
 
-funded by NSF IBSS Award Abstract #1416509. Opinions expressed are those of the authors and not necessarily those of the National Science Foundation. NSF Award Information.
+funded by NSF IBSS Award Abstract #1416509. Opinions expressed are those of the authors and not necessarily those of the National Science Foundation.  https://socialmedia.sdsu.edu/ 
 
 ### See the technical document (Anger-Words-Technical-Doc.pdf) for detailed instructions in using these notebooks.
 
